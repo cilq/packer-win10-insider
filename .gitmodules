@@ -1,0 +1,6 @@
+[submodule ".reference/Packer-Windows10"]
+	path = .reference/Packer-Windows10
+	url = https://github.com/luciusbono/Packer-Windows10
+[submodule ".reference/windows10-packer"]
+	path = .reference/windows10-packer
+	url = https://github.com/jollyrubber/windows10-packer
